@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Sentinel Lab</b>
-  - [Failed RDP Worldmap](https://github.com/claytree82/LABURL)
+  - [Failed RDP Worldmap](https://github.com/claytree82/Azure-Sentinel-Project)
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Comp TIA A+</b>
@@ -15,6 +15,5 @@
 - <b>ITIL 4 Foundation</b>
 
   
-
 
 
