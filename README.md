@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Sentinel Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/claytree82/LABURL)
+  - [Failed RDP Worldmap](https://github.com/claytree82/LABURL)
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Comp TIA A+</b>
