@@ -4,7 +4,7 @@
 
 - <b>Azure Sentinel Lab</b>
   - [Failed RDP Worldmap](https://github.com/claytree82/Azure-Sentinel-Project)
-  - <b>Python Keylogger</b>
+- <b>Python Keylogger</b>
   - [Keylogger Project](https://github.com/claytree82/Python-keylogger)
 <h2>👨‍💻 Certifications:</h2>
 
