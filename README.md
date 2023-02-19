@@ -6,6 +6,8 @@
   - [Failed RDP Worldmap](https://github.com/claytree82/Azure-Sentinel-Project)
 - <b>Python Keylogger</b>
   - [Keylogger Project](https://github.com/claytree82/Pyhton-keylogger)
+- <b>Python Port Scanner</b>
+  - [Port Scan](https://github.com/claytree82/Python-port-scanner)
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Comp TIA A+</b>
