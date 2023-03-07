@@ -8,6 +8,8 @@
   - [Keylogger Project](https://github.com/claytree82/Pyhton-keylogger)
 - <b>Python Port Scanner</b>
   - [Port Scan](https://github.com/claytree82/Python-port-scanner)
+- <b>Python 101 Cheat Sheet</b>
+  - [Cheat Sheet](https://github.com/claytree82/Python101)
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Comp TIA A+</b>
