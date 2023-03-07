@@ -12,11 +12,11 @@
   - [Cheat Sheet](https://github.com/claytree82/Python101)
 <h2>👨‍💻 Certifications:</h2>
 
-- <b>Comp TIA A+</b>
-- <b>Comp TIA Network+</b>
-- <b>Comp TIA Security+</b>
-- <b>Comp TIA Cysa+</b>
-- <b>Comp TIA Pentest+</b>
+- <b>CompTIA A+</b>
+- <b>CompTIA Network+</b>
+- <b>CompTIA Security+</b>
+- <b>CompTIA Cysa+</b>
+- <b>CompTIA Pentest+</b>
 - <b>ISC2 SSCP</b>
 - <b>ITIL 4 Foundation</b>
 
