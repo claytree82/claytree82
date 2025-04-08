@@ -14,6 +14,11 @@
   - [Cheat Sheet](https://github.com/claytree82/Python102)
 - <b>Buffer Overflow Script</b>
   - [Buffer Overflow](https://github.com/claytree82/Basic-Buffer-Overflow-Script)
+- <b>OSCP Study Notes</b>
+  - [OSCP Notes](https://app.gitbook.com/o/IkssDp7QlvFUPQdPb3PO/s/zMGemuDfBDp3vEkioaJZ/)
+- <b>Latest OSCP Box Writeup</b>
+  - [Squid Offsec Proving Grounds Box](https://medium.com/@claytalltree/offsec-proving-grounds-walkthrough-squid-6cf2d435c7f3) 
+
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>CompTIA A+</b>
@@ -23,6 +28,7 @@
 - <b>CompTIA Pentest+</b>
 - <b>ISC2 SSCP</b>
 - <b>ITIL 4 Foundation</b>
+- <b>Zero Point Security – Certified Red Team Operator </b>
 
   
 
