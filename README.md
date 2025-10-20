@@ -29,7 +29,7 @@
 - <b>ISC2 SSCP</b>
 - <b>ITIL 4 Foundation</b>
 - <b>Zero Point Security – Certified Red Team Operator </b>
-
+- <b>OSCP</b>
   
 
 
